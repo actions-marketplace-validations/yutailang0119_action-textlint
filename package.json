@@ -39,8 +39,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^3.0.0",
-    "@textlint/types": "^15.5.1"
+    "@actions/core": "^3.0.1",
+    "@textlint/types": "^15.5.4"
   },
   "devDependencies": {
     "@eslint/compat": "^2.0.2",
